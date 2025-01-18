@@ -1,9 +1,9 @@
 # Blog Website Backend
 
-**Description:**
+## Description:
 This project contains the backend for a blog website built with Node.js and Express.js. It handles user authentication, blog creation, approval/rejection, and email notifications.
 
-**Key Concepts:**
+## Key Concepts:
 
 * **User Authentication:**
     * User registration and login with role-based access control (admin and user).
@@ -13,7 +13,7 @@ This project contains the backend for a blog website built with Node.js and Expr
 * **Email Notifications:**
     * Send emails to users upon blog creation, approval, and rejection.
 
-**Features:**
+## Features:
 
 * **User Authentication:**
     * User registration and login with role-based access control (admin and user).
@@ -29,7 +29,7 @@ This project contains the backend for a blog website built with Node.js and Expr
 * **Error Handling:**
     * Implement proper error handling and return appropriate status codes.
 
-**Technologies Used:**
+## Technologies Used:
 
 * **Backend:**
     * Node.js
